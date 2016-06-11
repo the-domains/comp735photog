@@ -1,0 +1,29 @@
+name: comp735photog
+favicon: null
+layout_spectrum: 0.2493721025530249
+typography_spectrum: 0.9473264156840742
+title: A focus on comp735 photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09315753565169871
+  lightness: 0.8436081619001925
+  saturation: 0.08697043592110276
+  rhythmicContrast: 0.11799535667523742
+purpose: []
